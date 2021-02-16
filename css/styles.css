@@ -54,4 +54,15 @@ body {
 }
 .footer a:hover {
     background-color: lightgrey;
-    color:#36454f ;
+    color:#36454f;
+}
+
+/* Pictures: */
+
+.dog_pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 350px;
+}
